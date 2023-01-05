@@ -1,2 +1,2 @@
-# HTML_CSS_TEMPLATE.2
-Native Project Using HTML CSS JS (design from www.graphberry.com)
+# HTML & CSS TEMPLATE2
+This project is a continuation of the HTML and CSS template that I built by following along with a tutorial on YouTube. Through this project, I was able to further develop my skills in web design and learned how to use Font Awesome inside a CSS file. I also learned some basic commands in Git, which helped me to better understand version control. Overall, this project allowed me to build upon the knowledge and skills that I had acquired in my previous project and helped me to become more confident and proficient as a web developer.
